@@ -10,7 +10,7 @@ import Skills from './Components/skills';
 class App extends Component {
   render() {
       const person={
-          //avatar:'https://avatars3.githubusercontent.com',
+          //avatar:'',
           name:'Raj Kotak',
           profession:'Developer',
           bio:'❤ Pursuing Bachelors in computer science',
