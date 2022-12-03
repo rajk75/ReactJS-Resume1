@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './App.css';
+import './App.scss';
 import About from './Components/about';
 import Certificate from './Components/certificate';
 import Education from './Components/education';
@@ -13,7 +13,7 @@ class App extends Component {
           //avatar:'',
           name:'Raj Kotak',
           profession:'Developer',
-          bio:'❤ Pursuing Bachelors in computer science',
+          bio:'Pursuing Bachelors in computer science',
           address:'Columbus State University',
           social:[
             {name:'facebook',url:'#'},
