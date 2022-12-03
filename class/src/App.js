@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './App.scss';
+//import './App.scss';
 import About from './Components/about';
 import Certificate from './Components/certificate';
 import Education from './Components/education';
